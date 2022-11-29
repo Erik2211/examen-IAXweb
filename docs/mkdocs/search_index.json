@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/DocErik/",
+            "text": "Examen IAX\n\n\nErik Rosello\n\n\nLos \ncontenidos\n que hemos visto en esta primera evaluacion son:\n\n\n--- Markdown\n--- Git\n--- Github\nTambi\u00e9n hemos visto como crear p\u00e1gina web a partir de documentos \nmarkdown\n utilizando Mkdocs, el cual tiene las siguientes instrucciones:\n1. -Serve\n2. -Build\n\n\nLo que pone a continuaci\u00f3n es un trozo de codigo:\n\n$ apt update\n\n\n$ apt upgrade\n\nToda la documentaci\u00f3n lo tenemos subida en \naules",
+            "title": "DocErik"
+        },
+        {
+            "location": "/DocErik/#examen-iax",
+            "text": "",
+            "title": "Examen IAX"
+        },
+        {
+            "location": "/DocErik/#erik-rosello",
+            "text": "Los  contenidos  que hemos visto en esta primera evaluacion son:  --- Markdown\n--- Git\n--- Github\nTambi\u00e9n hemos visto como crear p\u00e1gina web a partir de documentos  markdown  utilizando Mkdocs, el cual tiene las siguientes instrucciones:\n1. -Serve\n2. -Build  Lo que pone a continuaci\u00f3n es un trozo de codigo: $ apt update  $ apt upgrade \nToda la documentaci\u00f3n lo tenemos subida en  aules",
+            "title": "Erik Rosello"
+        }
+    ]
+}
